@@ -1,2 +1,2 @@
 # simpleshoppinglist
-Create a simple shopping list using asp.net and jquery
+Create a simple shopping list with asp.net and jquery
